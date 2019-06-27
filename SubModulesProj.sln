@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opentk", "xamarin-macios\src\opentk.csproj", "{D7E171B6-4B94-49FB-87CC-006B906FBECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Mac.Tasks.Core", "xamarin-macios\msbuild\Xamarin.Mac.Tasks.Core\Xamarin.Mac.Tasks.Core.csproj", "{AF1AC7C3-F6DD-4E46-B897-9DBB90B158EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.iOS.Tasks", "xamarin-macios\msbuild\Xamarin.iOS.Tasks\Xamarin.iOS.Tasks.csproj", "{44605724-8002-48E1-895F-7CB068099B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E171B6-4B94-49FB-87CC-006B906FBECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E171B6-4B94-49FB-87CC-006B906FBECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E171B6-4B94-49FB-87CC-006B906FBECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E171B6-4B94-49FB-87CC-006B906FBECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF1AC7C3-F6DD-4E46-B897-9DBB90B158EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1AC7C3-F6DD-4E46-B897-9DBB90B158EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1AC7C3-F6DD-4E46-B897-9DBB90B158EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1AC7C3-F6DD-4E46-B897-9DBB90B158EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44605724-8002-48E1-895F-7CB068099B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44605724-8002-48E1-895F-7CB068099B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44605724-8002-48E1-895F-7CB068099B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44605724-8002-48E1-895F-7CB068099B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

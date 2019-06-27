@@ -1,0 +1,3 @@
+[submodule "xamarin-macios"]
+	path = xamarin-macios
+	url = https://github.com/xamarin/xamarin-macios
